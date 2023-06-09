@@ -9,7 +9,7 @@ Projeto de um gerador de Qr Code.
 | :rocket: URL         | https://guih1886.github.io/GeradorQRCode/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](#vitrinedev)
+![](https://github.com/guih1886/GeradorQRCode/blob/main/assets/geradorQrCode.png#vitrinedev)
 
 ## Detalhes do projeto
 
