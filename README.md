@@ -10,6 +10,7 @@ Projeto de um gerador de Qr Code.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/guih1886/GeradorQRCode/blob/main/assets/geradorQrCode.png#vitrinedev)
+![](https://github.com/guih1886/GeradorQRCode/blob/main/assets/geradorQrCode.png)
 
 ## Detalhes do projeto
 
