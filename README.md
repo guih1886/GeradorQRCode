@@ -2,7 +2,7 @@
 
 Projeto de um gerador de Qr Code.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |    Guilherme Henrique    |
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Gerador QR Code**
 | :label: Tecnologias | HTML, CSS, JavaScript
